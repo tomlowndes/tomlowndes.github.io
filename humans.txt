@@ -2,7 +2,7 @@
 /* humanstxt.org */
 
 /* TEAM */
-  Owner: Ham Vocke
-  Site: http://www.hamvocke.com
-  Twitter: hamvocke
-  Location: Haselünne, Germany
+  Owner: Tom Lowndes
+  Site: http://www.tomlowndes.co.uk
+  Twitter: tomlowndes
+  Location: Stone, Uk

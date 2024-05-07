@@ -1,7 +1,7 @@
 ---
 layout: now
-title: What I'm doing now | Ham Vocke
-latest_update: 2023-09-05 21:39:00 +0200
+title: What I'm doing now | Tom Lowndes
+latest_update: 2024-07-05 21:39:00 +0200
 ---
 
 # Now
@@ -44,4 +44,3 @@ I'm diving deep into software architecture at work and have been doing so for a 
 "Software Archutecture: The Hard Parts" goes into a lot of topics related to building large-scale (distributed) systems and drives one point home (a point I learned when I was at ThoughtWorks myself): **Software architecture is all about trade-offs.** There's never a perfect solution. Nothing is ever completely obvious. If you optimize for one thing, you often inevitably sacrifice another thing. That's how it goes, and balancing trade-offs for your specific needs is what it's all about. A nice book with a lot of examples and case studies that I can recommend to anyone facing the challenge of breaking down or modernizing a larger-scale system. It doesn't contain much ground-breakingly new but it's a comforting read that helps put things into perspective and inspire with a few ideas and thoughts.
 
 [more info](https://www.oreilly.com/library/view/software-architecture-the/9781492086888/)
- 
