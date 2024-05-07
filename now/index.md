@@ -9,7 +9,7 @@ _Last update: {{ page.latest_update | date_to_string }}_
 
 Here's what keeps me busy at the moment. [what?](https://nownownow.com/about)
 
-## Enjoying (late) summer
+## Enjoying spring
 The last few weeks have been packed with amazing activity, summer holidays with my wife, meeting friends and family, and generally having a good time and making the best out of this summer. I'm super grateful for living in a small town with so many good friends and family close by, with such a strong sense of community and tight-knit interaction. I hardly have any words to describe how great this feels and contributes to my well-being.
 
 As summer's back for a few more days here in northern Germany, I'm about to head out on a camping trip with my lads for a weekend and I'm sure we're going to have a few great days of enjoying the outdoors, cooking together, having a few drinks, enjoying life and getting ready for summer to slowly fade into fall.
@@ -20,7 +20,7 @@ Life's good.
 ## 👨‍💻 Side Projects
 
 
-### [dotfiles](https://github.com/hamvocke/dotfiles) - Geeking out over silly command-line tools
+### [Project folder template](https://github.com/hamvocke/dotfiles) - Geeking out over silly command-line tools
 Yeah, I'm back at it. Every now and then I get this craving. A craving to fully geek out over clunky command line tools and waste hours tweaking, exploring, configuring, and optimizing my setup, especially the stuff revolving around command line tools.
 
 This time I'm back at tweaking my tmux config a bit (see my [blog](https://www.hamvocke.com/blog/a-quick-and-easy-guide-to-tmux/) [posts](https://www.hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/) on tmux if you want to dive into the rabbit hole head first). But more than that, I'm overhauling my vim (or neovim, really) config. While I usually had a very conservative approach to tweaking my vim configuration I decided to take [kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) for a spin this time and so far I love it. It comes with support for LSP (Language Server Protocol), Treesitter for fancy syntax highlighting, code navigation and editing, and SO MUCH MORE. It's fun. For a very weird definition of "fun" that is.
