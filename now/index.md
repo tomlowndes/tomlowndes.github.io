@@ -1,7 +1,7 @@
 ---
 layout: now
 title: What I'm doing now | Tom Lowndes
-latest_update: 2024-07-05 21:39:00 +0200
+latest_update: 07/05/2024
 ---
 
 # Now
