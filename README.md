@@ -1,6 +1,6 @@
-www.hamvocke.com
+www.tomlowndes.co.uk
 ================
 
 Source code for my website and blog. 
 
-Read my nonsense over at [www.hamvocke.com](http://www.hamvocke.com). Or don't, that's up to you.
+Read my nonsense, rr don't, that's up to you.
