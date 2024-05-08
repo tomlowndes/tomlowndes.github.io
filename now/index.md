@@ -38,11 +38,14 @@ I'm currently watching a lot of skillshare, trying to improve my organisation an
 
 Some courses I recommend
 
-[Photography Essentials: 10 Exercises for Better Photos | Sean Dalton](https://share.skillshare.com/pjsz4!c636a527a2!a)
+Photography Essentials: 10 Exercises for Better Photos | Sean Dalton
+[more info](https://share.skillshare.com/pjsz4!c636a527a2!a)
 
-[Self Portraits: Telling Your Unique Story | Tabitha Park](https://share.skillshare.com/krccm!27cd3ec977!a)
+Self Portraits: Telling Your Unique Story | Tabitha Park
+[more info](https://share.skillshare.com/krccm!27cd3ec977!a)
 
-[Digital Decluttering: 11 Days to Organize, Simplify and Streamline Your Online Life | Emma Gannon](https://share.skillshare.com/a4mu2!4655a13cf8!a)
+Digital Decluttering: 11 Days to Organize, Simplify and Streamline Your Online Life | Emma Gannon
+[more info](https://share.skillshare.com/a4mu2!4655a13cf8!a)
 
 ## 📚 Reading
 The books I'm reading.
