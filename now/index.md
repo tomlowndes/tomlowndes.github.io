@@ -10,9 +10,12 @@ _Last update: {{ page.latest_update | date_to_string }}_
 Here's what keeps me busy at the moment. [what?](https://nownownow.com/about)
 
 ## Enjoying spring
-The last few weeks have been packed with amazing activity, summer holidays with my wife, meeting friends and family, and generally having a good time and making the best out of this summer. I'm super grateful for living in a small town with so many good friends and family close by, with such a strong sense of community and tight-knit interaction. I hardly have any words to describe how great this feels and contributes to my well-being.
 
-As summer's back for a few more days here in northern Germany, I'm about to head out on a camping trip with my lads for a weekend and I'm sure we're going to have a few great days of enjoying the outdoors, cooking together, having a few drinks, enjoying life and getting ready for summer to slowly fade into fall.
+Spring is my favourite time of the year by far. The days are getting warmer, the nights are getting longer and there just seems like more time in the day to get jobs done. My list of jobs never seems to dwindle, from side projects like starting this new website, to personal design projects and to pottering around my house and garden.
+
+We bought our house four years ago, and it has been a financial burden or as my girlfriend calls it "the money pit". But we wouldn't change owning a house for anything, we both feel so lucky to have something to call our own, my current home project are the garden and my office finally getting around to installing ethernet to hopefully improve my speeds upstairs.
+
+In a few weeks time (end of may) it will be my first abroad holiday if over 6 years, pool, beer, food and friends for a week in Spain!
 
 Life's good.
 
@@ -20,7 +23,9 @@ Life's good.
 ## 👨‍💻 Side Projects
 
 
-### [Project folder template](https://github.com/hamvocke/dotfiles) - Geeking out over silly command-line tools
+### [Project folder template](https://github.com/camshand/project-creator-3000) - Geeking out over silly command-line tools
+
+I came across a youtuber by the name of Cam Shand, (https://www.youtube.com/camshand) who builds cool 
 
 
 ### Website Overhaul
