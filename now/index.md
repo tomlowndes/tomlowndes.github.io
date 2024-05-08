@@ -25,11 +25,12 @@ Life's good.
 
 ### [Project folder template](https://github.com/camshand/project-creator-3000) - Geeking out over silly command-line tools
 
-I came across a youtuber by the name of [Cam Shand](https://www.youtube.com/camshand), who builds cool 
+I came across a youtuber by the name of [Cam Shand](https://www.youtube.com/camshand), who has just built a cool custom desk. Whilst watching these videos he was explaining his stream deck setup and showed off a cool script, that opens a powershell window asks for the folder name then creates that custom folder based on a template and re-names files inside.  
 
 
 ### Website Overhaul
 
+I am trying to build a new website using Jekyll and Github pages, fortunately so many talented coders have done this before so we can just steal there code and adapt it to our design preferences.   
 
 ### Skillshare Courses.
 
