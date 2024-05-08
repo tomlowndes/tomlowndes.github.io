@@ -22,11 +22,11 @@ Life's good.
 
 ## 👨‍💻 Side Projects
 
-
 ### [Project folder template](https://github.com/camshand/project-creator-3000) - Geeking out over silly command-line tools
 
 I came across a youtuber by the name of [Cam Shand](https://www.youtube.com/camshand), who has just built a cool custom desk. Whilst watching these videos he was explaining his stream deck setup and showed off a cool script, that opens a powershell window asks for the folder name then creates that custom folder based on a template and re-names files inside.  
 
+I'm adapting the script for my two Project folders, one for Design and the other for Video. So with one push on the Stream Deck, it will launch a PowerShell ask for the name and create the appropriate folder inside my project folder.
 
 ### Website Overhaul
 
@@ -34,15 +34,21 @@ I am trying to build a new website using Jekyll and Github pages, fortunately so
 
 ### Skillshare Courses.
 
-I'm currently watching a lot of skillshare, trying to improve my organisation and project management skills, Photography and Video editing and colour grading. Skillshare even though it is a little pricey at £ per month, the quality of classes is fantastic. With so many skilled professionals passing on there knowledge it is a fantastic tool for anyone to have.
+I'm currently watching a lot of skillshare, trying to improve my organisation and project management skills, Photography and Video editing and colour grading. Skillshare even though it is a little pricey, the quality of classes is fantastic. With so many skilled professionals passing on there knowledge it is a fantastic tool for anyone to have.
 
+Some courses I recommend
 
+[Photography Essentials: 10 Exercises for Better Photos | Sean Dalton](https://share.skillshare.com/pjsz4!c636a527a2!a)
+
+[Self Portraits: Telling Your Unique Story | Tabitha Park](https://share.skillshare.com/krccm!27cd3ec977!a)
+
+[Digital Decluttering: 11 Days to Organize, Simplify and Streamline Your Online Life | Emma Gannon](https://share.skillshare.com/a4mu2!4655a13cf8!a)
 
 ## 📚 Reading
-The last 3 books I've read, most recent at the top.
+The books I'm reading.
 
-### _Endymion_ by Dan Simmons
+### _The Devil's Hand_ by Jack Carr
 
-After finishing the first two books of the "Hyperion Cantos" (which I really enjoyed) I wanted to finish the series. The last two books feel a little different than the first two, changing the main characters and forwarding the story by a few hundred years. It's a somewhat different story with back-references to the first few books, but the story is nevertheless exciting and keeps me coming back for more. The worldbuilding is top notch and I'm having a great time with the entire "Cantos".
+After finishing the first three books of James Reece's adventures. I can't wait to get into the next book. I got into this series of books after watching the amazon adaptation staring Chris Prat as James Reece and have to say it was an amazing adaptation of the books (even through they change a bit.)  
 
 [more info](https://app.thestorygraph.com/books/3ab993ae-3728-4f7c-a107-78dbc26bf718)
