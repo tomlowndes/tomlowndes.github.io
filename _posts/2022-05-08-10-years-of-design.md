@@ -16,5 +16,3 @@ In the span of my career I've worked at agency, freelance and in-house. I've wor
 My past two jobs, have both been in-house 7 years at Busy Bees Nurseries, where I had two amazing bosses and several colleagues who taught me a lot and pushed my skillset to where it is today. And for the past 3 years at Dove Technology where I have pushed my skills whilst working with a smaller team.     
 
 I'm currently trying to become a more rounded designer, working on processes and templates to ensure that all my work is at a higher standard. Working on job tracking using notion to track personal projects and monday.com to track work projects. My aim by 2025 is to be more organised with my files, tracking project, time it has taken, and skills to improve on.
-
-I want to start weekly personal projects, take more Photos and improve my organisation structure.  
