@@ -51,4 +51,4 @@ The books I'm reading.
 
 After finishing the first three books of James Reece's adventures. I can't wait to get into the next book. I got into this series of books after watching the amazon adaptation staring Chris Prat as James Reece and have to say it was an amazing adaptation of the books (even through they change a bit.)  
 
-[more info](https://app.thestorygraph.com/books/3ab993ae-3728-4f7c-a107-78dbc26bf718)
+[more info](https://www.officialjackcarr.com/books/)
