@@ -12,3 +12,5 @@ comments: false
 
 In my opinion Caps lock is useless and is hardly used in my day to day life as a designer. What I do use, is shortcuts. Shortcuts in specific programs like Davinci resolve, InDesign and Illustrator.
 To enhance my love of shortcuts I use and Elgarto Stream Deck [more info]() to launch programs and to access quick shortcuts and automations I use frequently.  
+
+Introducing the Hyper key, a replacement for the caps lock key on any keyboard to add shortcuts to windows to enhahace speed up and make certain shortcuts more ergonomic.
