@@ -20,4 +20,8 @@ My Dashboard is a one stop shop to find information and keep organised notes for
 
 ![alt text](/assets/img/uploads/Dashboard-notion.png)
 
-From top to bottom its laid out in most important to least. The first thing is a pomodoro timer, an interesting system to carve our time to concentrate with scheduled breaks to avoid burnout.  
+From top to bottom its laid out in most important to least. The first thing is a pomodoro timer, an interesting system to carve our time to concentrate with scheduled breaks to avoid burnout.
+
+Below that is my Tasks and Project pages. Each Project gets a project number (Pro-#) this allows any associated files and folders to be easily found on my computer.    
+
+Tasks shows the associated tasks for each project. 
