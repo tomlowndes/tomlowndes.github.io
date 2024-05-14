@@ -17,3 +17,7 @@ I'm not to sure where the original concept for a second brain in notion [](an no
 ## My Dashboard
 
 My Dashboard is a one stop shop to find information and keep organised notes for anything I need to dump out of my brain.
+
+![alt text](/assets/img/uploads/Dashboard-notion.png)
+
+From top to bottom its laid out in most important to least. The first thing is a pomodoro timer, an interesting system to carve our time to concentrate with scheduled breaks to avoid burnout.  
