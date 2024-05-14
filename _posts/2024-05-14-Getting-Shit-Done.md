@@ -24,13 +24,15 @@ Since finishing university back in 2013, one skillset that I have focused on is 
 
 #### Bullet Journal
 
-The one system that has been consistent for me is bullet Journal. [Check Out Bullet Journal ](https://bulletjournal.com/pages/about) -
+The one system that has been consistent for me is bullet Journal.
 
-"Before we get to the why and how, let’s answer the what.
+>"Before we get to the why and how, let’s answer the what.
 
-The Bullet Journal method is a mindfulness practice that works like a productivity system.
+>The Bullet Journal method is a mindfulness practice that works like a productivity system.
 
-There’s Bullet Journal method the System and Bullet Journal method the Practice. The System focuses on What you’re doing, providing tools to capture and organize your thoughts. The Practice focuses on Why you’re doing what you’re doing, providing rituals to help you shed distractions and keep your actions aligned with your values. "
+>There’s Bullet Journal method the System and Bullet Journal method the Practice. The System focuses on What you’re doing, providing tools to capture and organize your thoughts. The Practice focuses on Why you’re doing what you’re doing, providing rituals to help you shed distractions and keep your actions aligned with your values. "
+
+[Check Out Bullet Journal ](https://bulletjournal.com/pages/about)
 
 I have been using this system to organize my day to day life for over 5 years, the method and physical notation of inputting my tasks in a structured system has helped me a lot. If I have a task to achieve I note it down, an appointment to remember I note it down.
 
