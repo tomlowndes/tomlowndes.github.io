@@ -1,18 +1,26 @@
 ---
+
 layout: post
+
 title: Getting Sh*t Done
-tags: draft
+
+tags: ADHD
+
 excerpt: My mad method for trying to stay organised in 2024. Calendars, Bullet Journal, Notion and ADHD.
+
 summary: My mad method for trying to stay organised in 2024. Calendars, Bullet Journal, Notion and ADHD.
+
 image: Image for Social Media (1200x630 px for open graph)
+
 comments: false
+
 ---
 
 # Getting Sh*t Done.
 
-My issue in life is motivation, for 30 years I've been told not to be lazy, stupid, slow and not good enough (mainly as a kid at school). But that feeling of not remembering my next job to do, or how to do a task I've not had to do in years has always annoyed me. Back at Uni in my 3rd year, I was diagnosed with dyslexia, which explained a lot of my struggles with reading and writing.
+My issue in life is motivation. For 30 years I have been told not to be lazy, stupid, slow and not good enough (mainly as a kid at school). But that feeling of not remembering my next job to do, or how to do a task I've not had to do in years has always annoyed me. Back at Uni in my 3rd year, I was diagnosed with dyslexia. Which explained a lot of my struggles with reading and writing.
 
-Since finishing university, one skillset that I have focused on is project management and putting a system in place to not only help me at work but at home as well.
+Since finishing university, one skillset that I have focused on is project management. Putting a system in place to not only help me at work but at home as well.
 
 #### Bullet Journal
 
@@ -38,8 +46,22 @@ Tasks are represented by a simple dot “•” and include any kind of actionab
 
 X = Task Complete
 
-> = Task Migrated (A task that's been moved forward into the nextMonthly Log or a Collection)
+/> = Task Migrated (A task that's been moved forward into the next Monthly Log or a Collection)
 
-< = Task Scheduled (A task that's been moved backward into the Future Log)
+</ = Task Scheduled (A task that's been moved backward into the Future Log)
 
 Notes are represented with a dash “–”. Notes include: facts, ideas, thoughts, and observations. Notes are entries that you want to remember but aren’t immediately or necessarily actionable.
+
+#### A Book or Paper
+
+I started off by using a notebook and following the full system, doing a contents page, monthly spread, and then using as much space as needed for the day to day.
+
+Recently I've been trying a different approach, taken from Van Neistat. [Check Out his video ](https://youtu.be/lG1DaoJkuBw)
+
+<img title="a title" alt="do list" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.aOoUmT7-RgSLDAyTh5HA3QHaFj%26pid%3DApi&f=1&ipt=f5e9794abbff25fa82a7eed95649cc87804153b36e13e2077576c9012588b4bd&ipo=images">
+
+Van's Approach is a Do list, as its tasks we are doing not putting on.
+
+He splits an A4 card stock into 4 sections, adds post it notes, dates the top and uses it as his weekly tasks. I'm testing a hybrid method of this system but using the signifiers from the bullet system. It can be kept on me or near me at all times. And once filled up kept for future reference.
+
+Hopefully with these improvements to my organization system, 2024 can be the year I get more sh*t done.
