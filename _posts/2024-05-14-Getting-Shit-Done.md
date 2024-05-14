@@ -18,9 +18,9 @@ comments: false
 
 # Getting Sh*t Done.
 
-My issue in life is motivation. For 30 years I have been told not to be lazy, stupid, slow and not good enough (mainly as a kid at school). But that feeling of not remembering my next job to do, or how to do a task I've not had to do in years has always annoyed me. Back at Uni in my 3rd year, I was diagnosed with dyslexia. Which explained a lot of my struggles with reading and writing.
+My issue in life is motivation. Remembering my next task to do, or how to do a something I've not had to do in years has always annoyed me.
 
-Since finishing university, one skillset that I have focused on is project management. Putting a system in place to not only help me at work but at home as well.
+Since finishing university back in 2013, one skillset that I have focused on is project management. Putting a system in place to not only help me at work but at home as well.
 
 #### Bullet Journal
 
