@@ -17,53 +17,43 @@ comments: false
 ---
 
 # Getting Sh*t Done.
+Since graduating in 2013, maintaining motivation and keeping track of tasks has been a significant challenge. Over time, I’ve explored various methods to enhance productivity and manage my projects effectively. This journey has led me to adopt and adapt different organizational strategies that have proven beneficial.
 
-My issue in life is motivation. Remembering my next task to do, or how to do a something I've not had to do in years has always annoyed me.
+#### The Bullet Journal Method:
+For over five years, the Bullet Journal method has been my go-to tool. Developed by Ryder Carroll, this system combines mindfulness with productivity, offering a structured yet flexible way to manage tasks, events, and thoughts. Here’s how I use it:
 
-Since finishing university back in 2013, one skillset that I have focused on is project management. Putting a system in place to not only help me at work but at home as well.
+* #### Daily Logs:
+Every day, I list out tasks, events, and notes. Tasks are marked with a dot, events with a circle, and notes with a dash. This simple notation helps me quickly identify what needs attention.
 
-#### Bullet Journal
+* #### Monthly Logs:
+At the beginning of each month, I create a spread to list out monthly tasks and important dates. This overview helps in setting monthly goals and keeping track of longer-term commitments.
 
-The one system that has been consistent for me is bullet Journal.
+* #### Future Logs:
+For tasks and events that fall outside the current month, the future log provides a space to jot them down, ensuring nothing is forgotten.
 
->"Before we get to the why and how, let’s answer the what.
-
->The Bullet Journal method is a mindfulness practice that works like a productivity system.
-
->There’s Bullet Journal method the System and Bullet Journal method the Practice. The System focuses on What you’re doing, providing tools to capture and organize your thoughts. The Practice focuses on Why you’re doing what you’re doing, providing rituals to help you shed distractions and keep your actions aligned with your values. "
-
-[Check Out Bullet Journal ](https://bulletjournal.com/pages/about)
-
-I have been using this system to organize my day to day life for over 5 years, the method and physical notation of inputting my tasks in a structured system has helped me a lot. If I have a task to achieve I note it down, an appointment to remember I note it down.
-
-If it's not written down, I don't remember it and I'm also not held accountable to finish it.
-
-#### The system  
-
-Bullet Journaling uses signifiers to organize notes.
-
-Events are represented by an “O” Bullet.
-
-Tasks are represented by a simple dot “•” and include any kind of actionable items like “Pick up dry cleaning”.
-
-X = Task Complete
-
-/> = Task Migrated (A task that's been moved forward into the next Monthly Log or a Collection)
-
-</ = Task Scheduled (A task that's been moved backward into the Future Log)
-
-Notes are represented with a dash “–”. Notes include: facts, ideas, thoughts, and observations. Notes are entries that you want to remember but aren’t immediately or necessarily actionable.
-
-#### A Book or Paper
-
-I started off by using a notebook and following the full system, doing a contents page, monthly spread, and then using as much space as needed for the day to day.
-
-Recently I've been trying a different approach, taken from Van Neistat. [Check Out his video ](https://youtu.be/lG1DaoJkuBw)
+#### Van Neistat's Do List:
 
 <img title="a title" alt="do list" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.aOoUmT7-RgSLDAyTh5HA3QHaFj%26pid%3DApi&f=1&ipt=f5e9794abbff25fa82a7eed95649cc87804153b36e13e2077576c9012588b4bd&ipo=images">
 
-Van's Approach is a Do list, as its tasks we are doing not putting on.
+Inspired by Van Neistat’s approach, I’ve recently incorporated the Do List into my routine. This method involves using an A4 card divided into sections, each holding post-it notes for different tasks. [Check Out his video ](https://youtu.be/lG1DaoJkuBw). Here’s why it works for me:
 
-He splits an A4 card stock into 4 sections, adds post it notes, dates the top and uses it as his weekly tasks. I'm testing a hybrid method of this system but using the signifiers from the bullet system. It can be kept on me or near me at all times. And once filled up kept for future reference.
+* #### Visual Organization:
+The physical separation of tasks on an A4 card allows for a clear visual representation of what needs to be done, making it easier to prioritize.
 
-Hopefully with these improvements to my organization system, 2024 can be the year I get more sh*t done.
+* #### Flexibility:
+Post-it notes can be easily moved around, removed, or updated, offering flexibility that a traditional list might lack.
+
+* #### Accountability:
+Having a physical card that I see daily helps in keeping me accountable and ensures that tasks don’t slip through the cracks.
+
+#### Combining Methods:
+
+While both methods have their strengths, I find that a hybrid approach works best. Here’s how I combine them:
+
+* #### Daily Routine:
+I start my day by reviewing my Bullet Journal and the Do List card. This helps in aligning my tasks for the day with my broader goals.
+
+* #### End-of-Day Review:
+At the end of the day, I review what has been accomplished and what needs to be carried over. This reflection helps in planning for the next day and keeps me motivated.
+
+By refining and combining these organizational methods, I aim to make 2024 a year of increased productivity and fulfillment. The journey of finding the right tools and strategies has been ongoing, but the benefits of staying organized and motivated are undeniable. Here’s to getting sh*t done in the new year!
