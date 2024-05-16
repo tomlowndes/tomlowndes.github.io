@@ -39,4 +39,22 @@ The Following is how I have set up my shortcuts, It will be a WIP. Files are ava
 * CapsLock + k |  Up   
 * CapsLock + l |  Right
 
-####
+#### CapsLock Page Navigator
+
+CapsLock + u |  PageUp                        
+CapsLock + p |  PageDown                      
+
+#### CapsLock Mouse Controller               
+
+* CapsLock + Up   |  Mouse Up                     
+* CapsLock + Down |  Mouse Down                   
+* CapsLock + Left |  Mouse Left                   
+* CapsLock + Right |  Mouse Right                  
+* CapsLock + Enter(Push Release) |  Mouse Left Push(Release)     
+
+#### CapsLock Deletor
+
+* CapsLock + n  |  Ctrl + Delete (Delete a Word)
+* CapsLock + m  |  Delete           
+* CapsLock + ,  |  BackSpace        
+* CapsLock + .  |  Ctrl + BackSpace  
