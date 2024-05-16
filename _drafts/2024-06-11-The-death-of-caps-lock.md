@@ -14,4 +14,16 @@ In my opinion Caps lock is useless and is hardly used in my day to day life as a
 
 To enhance my love of shortcuts I use and Elgarto Stream Deck [more info]() to launch programs and to access quick shortcuts and automations I use frequently.  
 
-Introducing the Hyper key, a replacement for the caps lock key on any keyboard to add shortcuts to windows to enhahace speed up and make certain shortcuts more ergonomic.
+Introducing the Hyper key, a replacement for the caps lock key on any keyboard to add shortcuts to windows to enhance  speed up and make certain shortcuts more ergonomic.
+
+## Keybinds
+
+#### CapsLock Switcher:
+
+* CapsLock + ` - CapsLock On / Off  
+
+#### Program launcher
+
+* CapsLock + e - Launch Web search (launches opera and duckduckgo)
+* CapsLock + r - Launch Termius
+* CapsLock + 
