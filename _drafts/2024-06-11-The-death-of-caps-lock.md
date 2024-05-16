@@ -20,10 +20,17 @@ Introducing the Hyper key, a replacement for the caps lock key on any keyboard t
 
 #### CapsLock Switcher:
 
-* CapsLock + ` - CapsLock On / Off  
+* CapsLock - CapsLock On / Off  
 
 #### Program launcher
 
 * CapsLock + e - Launch Web search (launches opera and duckduckgo)
 * CapsLock + r - Launch Termius
-* CapsLock + 
+* CapsLock + d -
+
+CapsLock Direction Navigator
+
+CapsLock + h |  Left
+CapsLock + j |  Down
+CapsLock + k |  Up   
+CapsLock + l |  Right
