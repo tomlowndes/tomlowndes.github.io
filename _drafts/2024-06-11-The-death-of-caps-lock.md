@@ -16,6 +16,10 @@ To enhance my love of shortcuts I use and Elgarto Stream Deck [more info]() to l
 
 Introducing the Hyper key, a replacement for the caps lock key on any keyboard to add shortcuts to windows to enhance  speed up and make certain shortcuts more ergonomic.
 
+After some googling I found a few examples of using Auto hotkey to achieve my dream of a hyper key on windows. (Mac can use ...)
+
+The Following is how I have set up my shortcuts, It will be a WIP. Files are available on my GitHub [GitHub files]()
+
 ## Keybinds
 
 #### CapsLock Switcher:
@@ -28,9 +32,11 @@ Introducing the Hyper key, a replacement for the caps lock key on any keyboard t
 * CapsLock + r - Launch Termius
 * CapsLock + d -
 
-CapsLock Direction Navigator
+#### CapsLock Direction Navigator
 
-CapsLock + h |  Left
-CapsLock + j |  Down
-CapsLock + k |  Up   
-CapsLock + l |  Right
+* CapsLock + h |  Left
+* CapsLock + j |  Down
+* CapsLock + k |  Up   
+* CapsLock + l |  Right
+
+####
