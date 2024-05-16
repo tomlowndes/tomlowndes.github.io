@@ -2,7 +2,7 @@
 layout: post
 title: 10+ Years of designing!
 tags: work
-excerpt:
+excerpt: In a few weeks, I will celebrate my third anniversary at Dove Technology—a job I was fortunate to land.
 summary: Reflecting on my time as a Creative Designer.
 comments: false
 ---
