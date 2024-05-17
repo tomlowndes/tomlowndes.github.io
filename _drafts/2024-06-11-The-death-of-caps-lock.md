@@ -34,23 +34,23 @@ The Following is how I have set up my shortcuts, It will be a WIP. Files are ava
 
 #### CapsLock Direction Navigator
 
-* CapsLock + h |  Left
-* CapsLock + j |  Down
-* CapsLock + k |  Up   
-* CapsLock + l |  Right
+* CapsLock + h  |  Left
+* CapsLock + j  |  Down
+* CapsLock + k  |  Up   
+* CapsLock + l  |  Right
 
 #### CapsLock Page Navigator
 
-CapsLock + u |  PageUp                        
-CapsLock + p |  PageDown                      
+* CapsLock + u  |  PageUp                        
+* CapsLock + p  |  PageDown                      
 
 #### CapsLock Mouse Controller               
 
-* CapsLock + Up   |  Mouse Up                     
-* CapsLock + Down |  Mouse Down                   
-* CapsLock + Left |  Mouse Left                   
-* CapsLock + Right |  Mouse Right                  
-* CapsLock + Enter(Push Release) |  Mouse Left Push(Release)     
+* CapsLock + Up     |  Mouse Up                     
+* CapsLock + Down   |  Mouse Down                   
+* CapsLock + Left   |  Mouse Left                   
+* CapsLock + Right  |  Mouse Right                  
+* CapsLock + Enter(Push Release)  |  Mouse Left Push(Release)     
 
 #### CapsLock Deletor
 
