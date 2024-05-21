@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Death Of The Useless Caps Lock
-tags: draft
+tags: tech
 excerpt: I hate Caps lock, it does one thing and one thing only, this needs to change.
 summary:  I hate Caps lock, it does one thing and one thing only, this needs to change.
 image: Image for Social Media (1200x630 px for open graph)
