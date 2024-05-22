@@ -33,8 +33,12 @@ markdown: kramdown
 plugins:
   - jekyll-paginate
 
-# Google Analytics
-google_analytics: G-XHZP9XQC73
+# Analytics
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-XHZP9XQC73"
+    anonymize_ip: true
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
