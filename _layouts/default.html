@@ -27,7 +27,10 @@
   <link rel="shortcut icon" href="/assets/img/favicon/favicon.ico?v=m2lLvX9Kmj">
   <link rel="me" href="">
   <meta name="msapplication-config" content="/assets/img/favicon/browserconfig.xml?v=m2lLvX9Kmj">
-  {% include head.html %}
+{% include head.html %}
+{% if site.google_analytics and jekyll.environment == 'production' %}
+{% include analytics.html %}
+{% endif %}
 </head>
 <body>
   <header id="topBar">
