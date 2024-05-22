@@ -25,3 +25,11 @@ From top to bottom its laid out in most important to least. The first thing is a
 Below that is my Tasks and Project pages. Each Project gets a project number (Pro-#) this allows any associated files and folders to be easily found on my computer.    
 
 Tasks shows the associated tasks for each project.
+
+#### Today
+
+This section can be used to set reminders. This is setup to automatically pull tasks with a deadline of the current date.
+
+#### My important tasks / Might do list
+
+This is where I can note down tasks without a project attached to them. Split between Important tasks, that need to be actioned asap.    
