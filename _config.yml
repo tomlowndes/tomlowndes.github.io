@@ -32,7 +32,6 @@ permalink: "/blog/:title/"
 markdown: kramdown
 plugins:
   - jekyll-paginate
-   - jekyll-seo-tag
 
 # Analytics
 analytics:
@@ -40,8 +39,6 @@ analytics:
   google:
     tracking_id: "G-XHZP9XQC73"
     anonymize_ip: true
-
-
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
