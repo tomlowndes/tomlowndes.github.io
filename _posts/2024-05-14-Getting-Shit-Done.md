@@ -16,7 +16,6 @@ comments: false
 
 ---
 
-# Getting Sh*t Done.
 Since graduating in 2013, maintaining motivation and keeping track of tasks has been a significant challenge. Over time, I’ve explored various methods to enhance productivity and manage my projects effectively. This journey has led me to adopt and adapt different organizational strategies that have proven beneficial.
 
 #### The Bullet Journal Method:
