@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Death Of The Useless Caps Lock
+title: The Death of Caps Lock, Embracing the Hyper Key
 tags: tech
 excerpt: I hate Caps lock, it does one thing and one thing only, this needs to change.
 summary:  I hate Caps lock, it does one thing and one thing only, this needs to change.
@@ -8,52 +8,64 @@ image: Image for Social Media (1200x630 px for open graph)
 comments: false
 ---
 
-In my opinion Caps lock is useless and is hardly used in my day to day life as a designer. What I do use, is shortcuts. Shortcuts in specific programs like Davinci resolve, InDesign and Illustrator.
+In the fast-paced world of design and technology, every keystroke counts. As a designer, I find the Caps Lock key to be largely redundant in my daily workflow. Instead, I rely heavily on shortcuts in programs like DaVinci Resolve, InDesign, and Illustrator. To streamline my productivity, I use an Elgato Stream Deck for launching applications and accessing frequently used shortcuts and automations.
 
-To enhance my love of shortcuts I use and Elgarto [Stream Deck](https://www.elgato.com/us/en/s/welcome-to-stream-deck) to launch programs and to access quick shortcuts and automations I use frequently.  
+## The Problem with Caps Lock
 
-Introducing the Hyper key, a replacement for the caps lock key on any keyboard to add shortcuts to windows to enhance  speed up and make certain shortcuts more ergonomic.
+The Caps Lock key, originally designed for typewriters to capitalize entire words or sentences, has become obsolete in modern computing. Most people use Shift for capitalization, leaving Caps Lock largely unused. This prime real estate on our keyboards could be put to better use.
 
-After some googling I found a few examples of using Auto hotkey to achieve my dream of a hyper key on windows.
+## Introducing the Hyper Key
 
-The Following is how I have set up my shortcuts, It will be a WIP. Files are available on my GitHub [GitHub files](https://github.com/tomlowndes/Capslock)
+The Hyper Key is a powerful replacement for the Caps Lock key on any keyboard, designed to enhance your efficiency by adding customizable shortcuts. By remapping the Caps Lock key to act as a modifier key (like Ctrl, Alt, or Shift), you can unlock a plethora of new shortcuts and commands. After some research, I discovered that AutoHotkey can be used to create a Hyper Key on Windows, transforming my workflow.
 
-## Keybinds
+### Why the Hyper Key?
+
+1. **Increased Productivity**: Access frequently used functions quickly.
+2. **Customization**: Tailor shortcuts to your specific needs.
+3. **Efficiency**: Reduce the need to switch between keyboard and mouse.
+4. **Ergonomics**: Minimize repetitive strain by reducing unnecessary movements.
+
+## My AutoHotkey Setup
+
+Below are the keybinds I've configured. This setup is a work in progress, and the files are available on my [GitHub](https://github.com).
+
+### Keybinds
 
 #### CapsLock Switcher:
+- **CapsLock**: Toggle CapsLock On/Off
 
-* CapsLock - CapsLock On / Off  
+#### Program Launcher:
+- **CapsLock + e**: Launch Web Search (opens Opera and DuckDuckGo)
+- **CapsLock + r**: Launch Termius
+- **CapsLock + d**: Launch Notion
 
-#### Program launcher
+#### Direction Navigator:
+- **CapsLock + h**: Move Left
+- **CapsLock + j**: Move Down
+- **CapsLock + k**: Move Up
+- **CapsLock + l**: Move Right
 
-* CapsLock + e - Launch Web search (launches opera and duckduckgo)
-* CapsLock + r - Launch Termius
-* CapsLock + d - Launch Notion
+#### Page Navigator:
+- **CapsLock + u**: Page Up
+- **CapsLock + p**: Page Down
 
+#### Mouse Controller:
+- **CapsLock + Arrow Keys**: Move Mouse
+- **CapsLock + Enter (Push/Release)**: Left Mouse Click
 
-#### CapsLock Direction Navigator
+#### Text Deletion:
+- **CapsLock + n**: Ctrl + Delete (Delete Word)
+- **CapsLock + m**: Delete
+- **CapsLock + ,**: Backspace
+- **CapsLock + .**: Ctrl + Backspace
 
-* CapsLock + h - Left
-* CapsLock + j - Down
-* CapsLock + k - Up   
-* CapsLock + l - Right
+## How to Create a Hyper Key on Windows with AutoHotkey
 
-#### CapsLock Page Navigator
+1. **Download and Install AutoHotkey**: Visit the [AutoHotkey website](https://www.autohotkey.com) and download the latest version.
+2. **Create a New Script**: Open Notepad and save a new file with the .ahk extension.
+3. **Define Your Keybinds**: Copy and paste your desired keybinds into the script.
+4. **Run the Script**: Double-click your .ahk file to run it.
 
-* CapsLock + u - PageUp                        
-* CapsLock + p - PageDown                      
+The Caps Lock key might be a relic of the past, but with a little creativity and tools like AutoHotkey, it can be transformed into a powerful tool for modern workflows. By repurposing it as a Hyper Key, you can unlock new levels of productivity and efficiency in your daily tasks.
 
-#### CapsLock Mouse Controller               
-
-* CapsLock + Up - Mouse Up                     
-* CapsLock + Down - Mouse Down                   
-* CapsLock + Left - Mouse Left                   
-* CapsLock + Right - Mouse Right                  
-* CapsLock + Enter(Push Release) - Mouse Left Push(Release)     
-
-#### CapsLock Deletor
-
-* CapsLock + n - Ctrl + Delete (Delete a Word)
-* CapsLock + m - Delete           
-* CapsLock + , - BackSpace        
-* CapsLock + . - Ctrl + BackSpace  
+Embrace the future of computing by optimizing every key on your keyboard. For more insights and updates, follow me on GitHub and Twitter.
