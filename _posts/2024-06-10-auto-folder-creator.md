@@ -12,7 +12,9 @@ If you're anything like me, you know that keeping your projects organized is cru
 
 ## The Magic of Automation
 
-When starting a new design, video, or idea project. Instead of wasting time setting up the necessary folders, with a simple keyboard shortcut Caps lock + d. (see death of caps lock) a terminal window will launch and walk you through the folder creation script. This script isn't just about saving time—it's about setting a consistent and professional standard for every project you undertake.
+When starting a new design, video, or idea project. Instead of wasting time setting up the necessary folders, with a simple keyboard shortcut Caps lock + d. To see how and why I got rid of my caps lock key and changed it into a Hyper Key, see [The Death of Caps Lock, Embracing the Hyper Key](https://tomlowndes.co.uk/blog/The-death-of-caps-lock/)
+
+A terminal window will launch and walk you through the folder creation script.
 
 ## How the Script Works
 
