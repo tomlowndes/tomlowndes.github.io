@@ -20,7 +20,7 @@ When you run the script, it prompts you to select the type of project you're wor
 
 ![Auto Folder launched on terminal](/assets/img/uploads/Auto-folder-terminal.png)
 
-After making your choice, you'll be asked to enter the project name. The script then takes over, creating a main project folder in a pre-defined directory based on the project type.
+After making a choice, it asks me to enter the project name. The script then takes over, creating a main project folder in a pre-defined directory based on the project type.
 
 Inside this main folder, the script generates a set of subfolders tailored to the specific needs of the project type.
 
@@ -56,4 +56,4 @@ By automating the creation of your project folders, this script frees me up to f
 
 One of the best features of this script is its flexibility. Need additional folders for a particular project type? Want to include different file types or templates? No problem. You can easily customize the script to suit your unique workflow needs. The script is a foundation you can build upon, adapting it to whatever requirements you have.
 
-If you want to check out the source files they are available here - []
+If you want to check out the source files they are available here - [Github/Auto-folder-creation](https://github.com/tomlowndes/Auto-folder-creation).
