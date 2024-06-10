@@ -1,14 +1,12 @@
 ---
 layout: post
-title: Supercharge Your Creative Workflow: Automating Project Folder Creation
+title: Supercharge Your Creative Workflow -  Automating Project Folder Creation
 tags: draft
 excerpt: If you're anything like me, you know that keeping your projects organized is crucial to maintaining your sanity and productivity.
 summary: If you're anything like me, you know that keeping your projects organized is crucial to maintaining your sanity and productivity
 image: Image for Social Media (1200x630 px for open graph)
 comments: false
 ---
-
-# Supercharge Your Creative Workflow: Automating Project Folder Creation
 
 If you're anything like me, you know that keeping your projects organized is crucial to maintaining your sanity and productivity. But let's face it—manually creating folders for every new project can be a real drag. My new solution that will hopefully streamline my workflow and ensure a uniform filing structure: a simple yet powerful Python script.
 
@@ -20,7 +18,7 @@ When starting a new design, video, or idea project. Instead of wasting time sett
 
 When you run the script, it prompts you to select the type of project you're working on. Here's a quick rundown of the options:
 
-    ![Auto Folder launched on terminal](/assets/img/uploads/Auto-folder-terminal)
+![Auto Folder launched on terminal](/assets/img/uploads/Auto-folder-terminal.png)
 
 After making your choice, you'll be asked to enter the project name. The script then takes over, creating a main project folder in a pre-defined directory based on the project type.
 
@@ -53,7 +51,6 @@ Inside this main folder, the script generates a set of subfolders tailored to th
   - Project Files
   - A Word document named `<project_name>_brief.docx`
 
-## Boosting Productivity
 
 By automating the creation of your project folders, this script frees me up to focus on the creative aspects of your work. No more fiddling around with folder structures or worrying about forgetting to create an important subfolder. Everything is set up and ready to go in seconds, ensuring I can hit the ground running.
 
