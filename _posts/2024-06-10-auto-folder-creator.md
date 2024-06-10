@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Supercharge Your Creative Workflow -  Automating Project Folder Creation
-tags: draft
+tags: python,automation, design, infrastructure
 excerpt: If you're anything like me, you know that keeping your projects organized is crucial to maintaining your sanity and productivity.
 summary: If you're anything like me, you know that keeping your projects organized is crucial to maintaining your sanity and productivity
 image: Image for Social Media (1200x630 px for open graph)
