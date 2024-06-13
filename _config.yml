@@ -17,7 +17,7 @@ title: Tom Lowndes
 subtitle: Designing like it's 1999
 email: hello@tomlowndes.co.uk
 description: Tom Lowndes writing about graphic design, mostly
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.tomlowndes.co.uk" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: tomlowndes
 github_username: tomlowndes
