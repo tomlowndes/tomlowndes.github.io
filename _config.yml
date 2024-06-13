@@ -32,7 +32,6 @@ permalink: "/blog/:title/"
 markdown: kramdown
 plugins:
   - jekyll-paginate
-  - jekyll-seo-tag
 
 # Analytics
 analytics:
