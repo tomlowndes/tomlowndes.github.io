@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Tagged {{ page.tag }} | Ham Vocke
+title: Tagged {{ page.tag }} | Tom Lowndes
 ---
 
 <div id="blog">
 	<h1 class="title">All posts tagged with <code>{{ page.tag }}</code></h1>
 	<p><em>{{ page.punchline }}</em></p>
-    
+
     <div class="posts">
         {% for post in site.posts %}
         {% if post.tags contains page.tag %}
