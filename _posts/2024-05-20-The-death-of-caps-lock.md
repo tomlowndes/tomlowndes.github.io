@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Death of Caps Lock, Embracing the Hyper Key
-tags: tech
+tags: technology
 excerpt: I hate Caps lock, it does one thing and one thing only, this needs to change.
 summary:  I hate Caps lock, it does one thing and one thing only, this needs to change.
 comments: false
