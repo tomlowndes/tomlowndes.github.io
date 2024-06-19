@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Tom Lowndes - Writing about graphic design, automation and code mostly
+title: Tom Lowndes
 subtitle: Designing like it's 1999
 email: hello@tomlowndes.co.uk
 description: Tom Lowndes writing about graphic design, automation and code mostly. Intrested in technology, coding and automating my life.
